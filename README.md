@@ -1,7 +1,8 @@
 Solar Data Dashboard Project
 
 Overview
-This project focuses on analyzing solar radiation data from multiple locations and building an interactive dashboard to visualize and explore insights. The dashboard is built using Streamlit and leverages cleaned and combined datasets for enhanced usability.
+This project focuses on analyzing solar radiation data from multiple locations and building an interactive dashboard to visualize and explore insights. 
+The dashboard is built using Streamlit and leverages cleaned and combined datasets for enhanced usability.
 
 Features
 - Interactive Data Exploration:
