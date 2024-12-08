@@ -85,9 +85,6 @@ Key Visualizations
 4. Impact of Cleaning:
    - Compare sensor readings before and after cleaning events.
 
-Deployment
-The dashboard is deployed using Streamlit Community Cloud:
-- Live Dashboard: [Dashboard Link](#) (Add your deployed link here)
 
 
 
